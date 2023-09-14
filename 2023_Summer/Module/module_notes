@@ -1,0 +1,8 @@
+örneğin bir güncelleme yaparken sorun yaşamamak için uygulamaları parçalara ayır
+her parça farklı göreve sahip olan modüllerdir
+bu modüller birbiri arasında alışveriş yapabilmektedir
+
+1-kendi hazırladığımız modüller
+2-hazır modüller
+ A-Standart Kütüphane Modülleri-import
+ B-3. Şahıs Yapımı Modüller -pypi.org

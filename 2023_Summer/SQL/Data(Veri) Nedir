@@ -1,0 +1,18 @@
+DATA:
+Discreet Data
+Continuous Data
+
+DATABASE:
+Silindir
+
+DATABASE DESIGN:
+Verilerin anlamlı bir şekilde tutulması için yapılan tasarım
+
+RDBM-Relational Database Management System
+SQL:SQL Server, Oracle, MySQL, PostreSQL
+
+NoSQL-Not Only SQL
+NoSQL:MongoDB, Cassandra, Redis
+
+NORMALIZATION:
+Verinin sağlıklı bir nbiçimde depolandığını göstermek için yapılan çalışmalardır

@@ -1,0 +1,32 @@
+Memory üzerinden oluşturduğumuz veri yapısı kalıcı olmuyor
+Database yapısında kalıcı veriler saklanır
+
+File System -json/xml/xls
+Genellikle database ikiye ayrılır. Bunlar:
+SQL -MySQL/MsSQL/SQLite
+NoSQL -MongoDb
+
+MongoDb içerisinde json saklanabilir
+Ayrıca Database Server tabanlı ve Server tabanlı olmayan olmak üzere ikiye ayrılıyor
+
+Server'a bağlanmak için kullanıcı-şifre ve database server'ının adresi gerekiyor-internet adresi gibi
+Ancak SQLite gibi internet üzerinden yayımlanan bir veritabanı değildir-JSON gibi
+SQLite uygulama içerisinde kullanılan bir dosya-database-ancak nternete erişimi açık değildir
+
+Relationships:
+one to one
+one to many
+many to many
+
+SQL Query
+Application--->Database
+            Create
+            Read
+            Update
+            Delete
+
+Select* from Products Where Price>100
+
+Normalization:
+1 tablonun 1 tane id'sinin olması gerekiyor
+

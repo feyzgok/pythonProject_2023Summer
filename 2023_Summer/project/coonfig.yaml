@@ -1,0 +1,8 @@
+path: C:\Users\feyza\OneDrive\Masaüstü\yolov8 #dataset root dir
+train: C:\Users\feyza\OneDrive\Masaüstü\yolov8\train  #train images (relative to 'path')
+val: C:\Users\feyza\OneDrive\Masaüstü\yolov8\train
+
+#Classes-categories
+names:
+  0: bill gates
+  1: elon musk
